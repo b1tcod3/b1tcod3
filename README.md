@@ -1,16 +1,18 @@
-## Hi there 👋
+# ¡Hola, soy José Elías Romero Guanipa! 👋
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=b1tcod3)
 
-<!--
-**b1tcod3/b1tcod3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Proyectos Destacados
 
-Here are some ideas to get you started:
+- [ViveBTC](https://vivebtc.win/): Página personal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y Herramientas
+
+- Lenguajes: **PHP**, **CSS**, **HTML**, **R**, **Python**, **JavaScript**.
+- Frameworks: **Pandas**, **TailwinCss**, **Laravel**, **Vue**.
+- Herramientas: **Git**, **Excel**,**Shell**, **Linux SO**, etc.
+
+## 📫 Conéctame
+
+- [LinkedIn](https://www.linkedin.com/in/jose-romero-09a3b0128/)
+- [Twitter](https://x.com/MatematicaPos)
+- [Facebook](https://www.facebook.com/profile.php?id=61566569762200&sk=about)
