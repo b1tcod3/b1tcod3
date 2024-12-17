@@ -1,4 +1,7 @@
 # ¡Hola, soy José Elías Romero Guanipa! 👋
+
+![Profile](https://vivebtc.win/ads/banner.png)
+
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=b1tcod3)
 
 ## 🚀 Proyectos Destacados
